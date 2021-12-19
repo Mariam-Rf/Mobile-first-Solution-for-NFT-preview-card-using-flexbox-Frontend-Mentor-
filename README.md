@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/mobilefirst-solution-for-nft-preview-card-using-flexbox-Y0PQyX07d
+- Live Site URL: https://mariam-rf.github.io/Mobile-first-Solution-for-NFT-preview-card-using-flexbox-Frontend-Mentor-/
 
 ## My process
 
